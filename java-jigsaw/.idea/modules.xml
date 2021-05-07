@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/br.com.luigipietro.core/br.com.luigipietro.core.iml" filepath="$PROJECT_DIR$/br.com.luigipietro.core/br.com.luigipietro.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br.com.luigipietro.teste/br.com.luigipietro.teste.iml" filepath="$PROJECT_DIR$/br.com.luigipietro.teste/br.com.luigipietro.teste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br.com.luigipietro.utils/br.com.luigipietro.utils.iml" filepath="$PROJECT_DIR$/br.com.luigipietro.utils/br.com.luigipietro.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-jigsaw.iml" filepath="$PROJECT_DIR$/java-jigsaw.iml" />
+    </modules>
+  </component>
+</project>
