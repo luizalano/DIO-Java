@@ -1,0 +1,25 @@
+plugins {
+    id 'java'
+}
+
+group 'br.com.luigipietro'
+version '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+//implementation group: 'org.postgresql', name: 'postgresql', version: '42.2.20'
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    //implementation 'org.postgresql:postgresql:42.2.20'
+    implementation group: 'org.postgresql', name: 'postgresql', version: '42.2.20'
+    // https://mvnrepository.com/artifact/org.postgresql/postgresql
+
+}
+
+test {
+    useJUnitPlatform()
+}
