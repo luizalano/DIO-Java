@@ -1,4 +1,4 @@
-package br.com.luigipietro.desafios;
+package br.com.luigipietro.desafios.desafios05;
 /*
 Desafio
 Final de ano ocorre uma festa na escola.

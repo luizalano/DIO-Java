@@ -1,4 +1,4 @@
-package br.com.luigipietro.desafios;
+package br.com.luigipietro.desafios.desafios05;
 /*
 Desafio
 A nutricionista Juliana Alcantra é uma excelente profissional de sua área.

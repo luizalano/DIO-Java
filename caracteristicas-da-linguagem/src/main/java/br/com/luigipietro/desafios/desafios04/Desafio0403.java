@@ -18,7 +18,7 @@ A saída contém uma linha, que pode ser Senha valida.,
 caso a senha tenha cada item dos requisitos solicitados anteriormente,
 ou Senha invalida., se um ou mais requisitos não forem atendidos.
  */
-package br.com.luigipietro.desafios;
+package br.com.luigipietro.desafios.desafios04;
 
 import java.io.BufferedReader;
 import java.io.IOException;

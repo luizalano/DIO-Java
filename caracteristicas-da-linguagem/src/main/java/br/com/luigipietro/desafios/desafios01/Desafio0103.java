@@ -1,4 +1,4 @@
-package br.com.luigipietro.desafios;
+package br.com.luigipietro.desafios.desafios01;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;

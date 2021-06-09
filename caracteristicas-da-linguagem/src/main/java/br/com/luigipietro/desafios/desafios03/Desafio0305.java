@@ -1,4 +1,4 @@
-package br.com.luigipietro.desafios;
+package br.com.luigipietro.desafios.desafios03;
 
 import java.util.ArrayList;
 import java.util.List;
